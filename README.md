@@ -1,18 +1,23 @@
 ### Hi there 👋
 ### Introduction
-Hello, I'm Nick, a dedicated and resourceful individual with a diverse background that spans both hands-on experience in retail operations and a strong academic and personal involvement in software development. My journey has equipped me with a unique blend of practical skills, technical knowledge, and a deep understanding of teamwork and operational efficiency, all of which I am excited to apply in the field of computer science.
+Hello, I'm Thomas. I'm a dedicated and resourceful individual with a diverse background that spans both strong academic and personal involvement in software development and a hands-on experience in teamwork and efficiency through 7 years of retail experience. My journey has given me with a unique blend of problem sovling, practical skills, technical knowledge, and a deep understanding of teamwork and operational efficiency, all of which I am excited to apply in the field of computer science.
 
 ### Professional Experience:
 
-My tenure at Walmart, stretching from September 2016 to the present, has been instrumental in developing my capabilities in team coordination, operational management, and problem-solving. In roles ranging from Cap Team 2 to ON Stocking, I have honed skills in autonomous management, effective communication, and meticulous attention to detail. These experiences have ingrained in me the importance of clear communication, a collaborative spirit, and an adaptable approach to tasks - qualities that are immensely valuable in software development environments.
+My experiences at Walmart from 2016 to now have been instrumental in developing soft skills that translate to almost any career from team coordination and harmony, problem solving and adaptablity, to diligence in quality work regardless if that is through self-governence or a team. I've had roles that require leadership and intitive and autonomous descsision making to being a team player and accomidating through communication to be as efficient as possible no matter what the role is. These experiences have ingrained in me the importance of clear communication, a collaborative spirit, and an adaptable approach to tasks - qualities that are immensely valuable in software development and any team environment.
 
 ### Academic and Personal Projects:
 
-In parallel to my professional life, I have engaged deeply in the world of computer science through various academic and personal projects. Notably, my work on an AI Digit Recognizer using C#, .NET framework, and WPF, where I developed a Feedforward Neural Network (FNN) with backpropagation from scratch, stands as a testament to my technical acumen and passion for innovation. Furthermore, my involvement in developing a navigation app as part of a team, using an agile development approach with technologies like JavaScript, Node.js, CSS, and MongoDB, highlights my ability to collaborate effectively in technology-driven projects.
+In parallel to my professional life, I have engaged deeply in the world of software devlopment through various academic and personal projects. Most recenty a challenging passion project [AI Digit Recognizer](https://github.com/MyutVoilim/AI-Digit-Recognition.git) using C#, .NET framework, and WPF to developed a Feedforward Neural Network with backpropagation from scratch. this project stands as the culmination of years of adcademic learning through solo/team projects along with an array of personal projects that have honed my devlopment skill in various areas but in particular OOP. I've experienced the important of proper communication and group effort with my involvement in developing a navigation app as part of a 3 person team where we used an agile development approach with technologies like JavaScript, Node.js, CSS, and MongoDB to collaborativly and effictivly devlop impactful software. I've had experience understanding the impact that working with a client has both in a software devlopment life cylce and the passion that comes from providing tailored and genuinlly helpful solutions to the client through the creation of a MS Access database for digital record-keeping and Tax mangement.
 
 Despite having to step back from completing my Bachelor's degree due to family obligations, my time in academia, accumulating 127 credits, was marked by a steadfast commitment to learning and applying the principles of OOP using C# and Java, and practical application in real-world scenarios, such as developing an MS Access form for a client.
 
-[Link Text](https://github.com/MyutVoilim/AI-Digit-Recognition.git)
+
+
+
+
+
+
 
 
 ### Looking Forward:
