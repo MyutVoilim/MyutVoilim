@@ -12,6 +12,9 @@ In parallel to my professional life, I have engaged deeply in the world of compu
 
 Despite having to step back from completing my Bachelor's degree due to family obligations, my time in academia, accumulating 127 credits, was marked by a steadfast commitment to learning and applying the principles of OOP using C# and Java, and practical application in real-world scenarios, such as developing an MS Access form for a client.
 
+[Link Text](https://github.com/MyutVoilim/AI-Digit-Recognition.git)
+
+
 ### Looking Forward:
 
 As I transition into the realm of computer science and software development, I bring with me a rich tapestry of experiences and skills that go beyond traditional technical roles. I am enthusiastic about the opportunity to blend my background in operational leadership with my passion for technology, aiming to contribute to innovative and impactful software solutions.
