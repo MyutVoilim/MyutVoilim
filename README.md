@@ -1,6 +1,8 @@
-# Hey There 👋 I'm Thomas
+# Hey There 👋 I'm Thomas | Tom10006009@gmail.com | 308-240-1315
 - [In Depth History](#more_about_me) 📖
 - [Full Portfolio](https://github.com/MyutVoilim/Projects-Portfolio.git) 🗂️
+- [Resume]
+- [Linkedin]
 
 I'm a software developer with a deep-seated passion for problem-solving. I have rich background in academia, hands-on projects, and real world experience of what it means to be a team. Over the past 8 years I've honed my skills in variety of languages and concepts but with particular focus in Object-Oriented Programming in C# and Java. I'm excited to share some of the highlights of my journey and the challenges I’ve overcome including complex personal projects, unique challenges and advantages that come from developing in a team, and the importance of understanding and working with a client to create software that has genuine impact.
 
