@@ -14,7 +14,9 @@ I'm a software developer with a deep-seated passion for problem-solving. I have 
   
 ## Featured Projects
 ### AI Digit Recognizer (Check [here](https://github.com/MyutVoilim/AI-Digit-Recognition.git) to see in-depth documentation) 🔢
-<b>Technologies:</b> C# | WPF | .Net Framework | Visual Studio
+![Digit Recognizer 2](https://github.com/MyutVoilim/MyutVoilim/assets/54462267/5292bc93-0618-476c-a024-5af1ecf6e814)
+
+<b>Technologies:</b> C# | WPF | .Net Framework | Visual Studio                                                      
 
 <b>Overview:</b> A sophisticated application that recognizes hand-drawn digits and allows for the users to create and train new neural networks with control over a variety of variables. This project is the culmination of my accumulated knowledge and skills in C#, OOP, machine learning a display in growth for planning, designing, testing complex systems.
   
@@ -30,6 +32,7 @@ I'm a software developer with a deep-seated passion for problem-solving. I have 
 - <b>Documentation and Learning:</b> The project was not just a technical challenge but also an opportunity to refine my skills in creating comprehensive documentation and understanding the intricacies of neural network behaviors.
 
 ### Maproom Navigation App 📍
+![Maproom Searching room](https://github.com/MyutVoilim/MyutVoilim/assets/54462267/61fbf744-436a-4cc3-b25a-554510c62482)
 <b>Technologies:</b> JavaScript | CSS | HTML5 | Node.js | JSON | MongoDB
 
 <b>Overview:</b> A collaborative project developed by a team of three using Agile methodologies to create "Maproom," an app designed to assist freshmen in navigating our campus. Our goal was to make the transition to campus life less daunting for new students by providing a user-friendly tool to locate classrooms and facilities.
@@ -45,6 +48,8 @@ I'm a software developer with a deep-seated passion for problem-solving. I have 
 - <b>Remote Coordination:</b> Leveraged tools like Discord, email, and GitHub for communication and version control, overcoming the challenge of coordinating work across different schedules.
 
 ### ATV Repair Shop Database Application 🛠️
+![3K Full Service View](https://github.com/MyutVoilim/MyutVoilim/assets/54462267/cb72e3d9-5d4a-43cb-9dbb-58847cd9add9)
+
 <b>Technologies:</b> Microsoft Access
 
 <b>Overview:</b> A relational database crafted to streamline operations for an ATV repair shop. Meant to replace their cumbersome physical logging system with a user friends system that allows the client to quickly find customers and their associated repairs.
@@ -60,11 +65,23 @@ I'm a software developer with a deep-seated passion for problem-solving. I have 
 - <b>Business Requirements Analysis:</b> Focused on aligning the database design with the practical business requirements of the repair shop.
 - <b>System Design and Presentation:</b> Carefully designed the system with an emphasis on usability, and actively involved the client in the design process to incorporate their feedback and additional functionality requirements.
 
-# More About Me 🙋‍♂️
+# A Little More About Me 🙋‍♂️
 
-Hello, I'm Thomas. I’m individual that enjoys and even thrives in problem solving. Whether that be games, philosophy, and most enjoyably software development. Much like any puzzle, once solved you not only learn the solution but get a progressively better at fundamentally understanding the mechanics as play. Each new challenge is an opportunity to develop my understanding and broaden my perspective; This is a philosophy I hold deep to my heart in everything that I do. 
+## Overview
+I’m individual that enjoys and even thrives in problem solving. Whether that be games, philosophy, and most enjoyably software development. Much like any puzzle, once solved you not only learn the solution but get a progressively better at fundamentally understanding the mechanics as play. Each new challenge is an opportunity to develop my understanding and broaden my perspective; This is a philosophy I hold deep to my heart in everything that I do. 
 
-I have a diverse background that spans both a strong academic and personal passion for software development. I’ve tackled the challenges and opportunities that collaboration provides to software development, been driven with the passion create and grow from challenging personal projects, and understand the importance of working with clients to create solutions that have genuine impact.
-Over the years with over 7 years of retail experience, I know what it means to set aside differences and come together towards a common goal. I’ve met every type of person under the sun and even still meet unique characters that each have their strengths and weaknesses. No matter how efficient you think you are, an individual can never achieve the progress and impact cooperation can. Through communication, compassion, and guidance so many barriers can be crossed to help work towards a common goal. If there is one thing I’ve learned over the years, it’s that people tend to match those around them; If you work with initiative, passion, and kindness more likely then not that will motive those around you to match.
+<b>Some Things I Like</b>
+- VR
+- Philosophy
+- Gaming
+- My Chihuahua
+- Puzzels
 
-I been programming for nearly 8 years now from JavaScript games in high school to personal and academic projects growing to use an array of languages and concepts. In that journey I’ve spend most of my time specializing in OOP between C# and Java and is my preferred paradigm. For more in depth overviews check out my [Portfolio] be here are highlights showing projects I’m proud of displaying a variety of important skill sets from team collaboration, working with clients, and overcomming complexity from personal passion projects.
+## Background
+I have a diverse background that spans both a strong academic and personal passion for software development. I’ve tackled the challenges and opportunities that collaboration provides to software development, been driven with the passion create and grow from challenging personal projects, and understand the importance of working with clients to create solutions that have genuine impact. Over the years with over 7 years of retail experience, I know what it means to set aside differences and come together towards a common goal. I’ve met every type of person under the sun and even still meet unique characters that each have their strengths and weaknesses. No matter how efficient you think you are, an individual can never achieve the progress and impact cooperation can. Through communication, compassion, and guidance so many barriers can be crossed to help work towards a common goal. If there is one thing I’ve learned over the years, it’s that people tend to match those around them; If you work with initiative, passion, and kindness more likely then not that will motive those around you to match.
+
+## My Journey Through Computer Science
+I been programming for nearly 8 years now from JavaScript games in high school to personal and academic projects growing to use an array of languages and concepts. In that journey I’ve spend most of my time specializing in OOP between C# and Java and is my preferred paradigm. I've completed 127 credits towards a Bachlores in Computer Scince that unfortunatley was cut short one semester before graduating due to Family issues that took prioirty. Even so, the desire to take challenges and learn drove the to go to univeristy and still hold true for everything I do including constantly learning new things in software devlopment. I keep a keen eye on recent devlopment in AI and espcially look on to things like general intelligence, Virtual reality, and new lagunages and Frameworks becomming popular.
+
+## Towards The Future
+I always look on to improve myself regardless if that is delvoping my programming skills or tackling on pressing life or philosophical issues. I hope to apply all i've learned to help make an impact with a strong team that hold those same ideas and never stop learning.
