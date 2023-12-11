@@ -17,14 +17,15 @@ I'm a software developer with a deep-seated passion for problem-solving. I have 
 <b>Overview:</b> A sophisticated application that recognizes hand-drawn digits and allows for the users to create and train new neural networks with control over a variety of variables. This project is the culmination of my accumulated knowledge and skills in C#, OOP, machine learning a display in growth for planning, designing, testing complex systems.
   
 <b>Features:</b>
-- Customizable neural network configurations.
-- Interactive digit drawing and loading.
-- Real-time training controls, model accuracy, and progress tracking.
-- Confidence values for drawn or loaded digits
-- Adjustable learning rate and epoch settings.
-- Model save/load functionality.
+- Interactive Digit Recognition: Users can draw digits and see the AI's confidence values in real-time.
+- Customizable Neural Network: Ability to create custom neural networks by defining hidden layer sizes and node counts.
+- Control Over Training Parameters: Adjust learning rates and epoch counts to influence training efficacy.
+- User-Friendly Interface: Includes dynamic visuals, progress bars, accuracy tracking, and confidence value displays.
   
-<b>Challenges Overcome:</b> Developed more in-depth understanding of neural networks, improved bug detection through unit testing, and developed robust system design from complex system creating  stability and testability.
+<b>Challenges Overcome:</b>
+- <b>Comprehensive Design and Development:</b>Tackled the complexities of designing and implementing a neural network in C# with a strong emphasis on OOP.
+- <b>Testing and Reliability:</b> Focused on unit testing to ensure reliability in complex processes, learning valuable lessons in bug detection and system robustness.
+- <b>Documentation and Learning:</b> The project was not just a technical challenge but also an opportunity to refine my skills in creating comprehensive documentation and understanding the intricacies of neural network behaviors.
 
 ### Maproom Navigation App
 <b>Technologies:</b> JavaScript | CSS | HTML5 | Node.js | JSON | MongoDB
@@ -37,9 +38,9 @@ I'm a software developer with a deep-seated passion for problem-solving. I have 
 - Intuative search functioantlity that simplifies finding classroom without needing to know the exact building it is in
 
 <b>Challenges Overcome:</b>
-- Collaboration Across Disciplines: Our team had diverse backgrounds ranging from Business to Computer Science lending each with difference experinces that could be utalized with responsibilities divided based on our areas of expertise. I focused on database management, JavaScript logic for mapping, and developing the search engine.
-- Time Management: Balancing development with academic and work commitments. We utilized Gantt charts and meetings to hit weekly targets and had task prioritization.
-- Remote Coordination: Leveraged tools like Discord, email, and GitHub for communication and version control, overcoming the challenge of coordinating work across different schedules.
+- <b>Collaboration Across Disciplines:</b> Our team had diverse backgrounds ranging from Business to Computer Science lending each with difference experinces that could be utalized with responsibilities divided based on our areas of expertise. I focused on database management, JavaScript logic for mapping, and developing the search engine.
+- <b>Time Management:</b> Balancing development with academic and work commitments. We utilized Gantt charts and meetings to hit weekly targets and had task prioritization.
+- <b>Remote Coordination:</b> Leveraged tools like Discord, email, and GitHub for communication and version control, overcoming the challenge of coordinating work across different schedules.
 
 ### ATV Repair Shop Database Application
 <b>Technologies:</b> Microsoft Access
@@ -52,7 +53,10 @@ I'm a software developer with a deep-seated passion for problem-solving. I have 
 - Easy naviation from customer to associated ATVs or ATVs to associated customers.
 - Ability to print forms for physical backups
 
-<b>Challenges Overcome:</b>Understood the unique challenges that come with working together with the client to create a solution the the SDLC. Worked closely with client to find business requirement and apply itterative design through client feedback to create impactful tailored solution.
+<b>Challenges Overcome:</b>
+- <b>Client Collaboration:</b> Worked closely with the client to ensure the system met their specific needs. Involved in extensive planning and iterative feedback sessions to fine-tune the system's features and functionalities.
+- <b>Business Requirements Analysis:</b> Focused on aligning the database design with the practical business requirements of the repair shop.
+- <b>System Design and Presentation:</b> Carefully designed the system with an emphasis on usability, and actively involved the client in the design process to incorporate their feedback and additional functionality requirements.
 
 # More About Me
 
