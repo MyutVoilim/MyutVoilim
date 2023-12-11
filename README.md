@@ -1,6 +1,6 @@
 # Hey There 👋 I'm Thomas
-- [In Depth History](#more_about_me)
-- [Full Portfolio](https://github.com/MyutVoilim/Projects-Portfolio.git)
+- [In Depth History](#more_about_me) 📖
+- [Full Portfolio](https://github.com/MyutVoilim/Projects-Portfolio.git) 🗂️
 
 I'm a software developer with a deep-seated passion for problem-solving. I have rich background in academia, hands-on projects, and real world experience of what it means to be a team. Over the past 8 years I've honed my skills in variety of languages and concepts but with particular focus in Object-Oriented Programming in C# and Java. I'm excited to share some of the highlights of my journey and the challenges I’ve overcome including complex personal projects, unique challenges and advantages that come from developing in a team, and the importance of understanding and working with a client to create software that has genuine impact.
 
@@ -11,7 +11,7 @@ I'm a software developer with a deep-seated passion for problem-solving. I have 
 - <b>Other:</b> JavaScript, CSS, HTML5, Node.js, MS Access, MongoDB, REST, SDLC, Technical Writing
   
 ## Featured Projects
-### AI Digit Recognizer (Check [here](https://github.com/MyutVoilim/AI-Digit-Recognition.git) to see in-depth documentation)
+### AI Digit Recognizer (Check [here](https://github.com/MyutVoilim/AI-Digit-Recognition.git) to see in-depth documentation) 🔢
 <b>Technologies:</b> C# | WPF | .Net Framework | Visual Studio
 
 <b>Overview:</b> A sophisticated application that recognizes hand-drawn digits and allows for the users to create and train new neural networks with control over a variety of variables. This project is the culmination of my accumulated knowledge and skills in C#, OOP, machine learning a display in growth for planning, designing, testing complex systems.
@@ -27,7 +27,7 @@ I'm a software developer with a deep-seated passion for problem-solving. I have 
 - <b>Testing and Reliability:</b> Focused on unit testing to ensure reliability in complex processes, learning valuable lessons in bug detection and system robustness.
 - <b>Documentation and Learning:</b> The project was not just a technical challenge but also an opportunity to refine my skills in creating comprehensive documentation and understanding the intricacies of neural network behaviors.
 
-### Maproom Navigation App
+### Maproom Navigation App 📍
 <b>Technologies:</b> JavaScript | CSS | HTML5 | Node.js | JSON | MongoDB
 
 <b>Overview:</b> A collaborative project developed by a team of three using Agile methodologies to create "Maproom," an app designed to assist freshmen in navigating our campus. Our goal was to make the transition to campus life less daunting for new students by providing a user-friendly tool to locate classrooms and facilities.
@@ -42,7 +42,7 @@ I'm a software developer with a deep-seated passion for problem-solving. I have 
 - <b>Time Management:</b> Balancing development with academic and work commitments. We utilized Gantt charts and meetings to hit weekly targets and had task prioritization.
 - <b>Remote Coordination:</b> Leveraged tools like Discord, email, and GitHub for communication and version control, overcoming the challenge of coordinating work across different schedules.
 
-### ATV Repair Shop Database Application
+### ATV Repair Shop Database Application 🛠️
 <b>Technologies:</b> Microsoft Access
 
 <b>Overview:</b> A relational database crafted to streamline operations for an ATV repair shop. Meant to replace their cumbersome physical logging system with a user friends system that allows the client to quickly find customers and their associated repairs.
@@ -58,7 +58,7 @@ I'm a software developer with a deep-seated passion for problem-solving. I have 
 - <b>Business Requirements Analysis:</b> Focused on aligning the database design with the practical business requirements of the repair shop.
 - <b>System Design and Presentation:</b> Carefully designed the system with an emphasis on usability, and actively involved the client in the design process to incorporate their feedback and additional functionality requirements.
 
-# More About Me
+# More About Me 🙋‍♂️
 
 Hello, I'm Thomas. I’m individual that enjoys and even thrives in problem solving. Whether that be games, philosophy, and most enjoyably software development. Much like any puzzle, once solved you not only learn the solution but get a progressively better at fundamentally understanding the mechanics as play. Each new challenge is an opportunity to develop my understanding and broaden my perspective; This is a philosophy I hold deep to my heart in everything that I do. 
 
