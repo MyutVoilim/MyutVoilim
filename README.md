@@ -1,4 +1,4 @@
-# Hey There 👋 I'm Thomas | Tom10006009@gmail.com | 308-240-1315
+# Hey There 👋 I'm Thomas
 - [In Depth History](#more_about_me) 📖
 - [Full Portfolio](https://github.com/MyutVoilim/Projects-Portfolio.git) 🗂️
 - [Resume]
@@ -40,10 +40,10 @@ I'm a software developer with a deep-seated passion for problem-solving. I have 
 <b>Features:</b>
 - Provides user with the building and floor along with a highlight for the exact room they are look for.
 - A campus view and local view for building and room locations
-- Intuative search functioantlity that simplifies finding classroom without needing to know the exact building it is in
+- Initiative search functionality that simplifies finding classroom without needing to know the exact building it is in
 
 <b>Challenges Overcome:</b>
-- <b>Collaboration Across Disciplines:</b> Our team had diverse backgrounds ranging from Business to Computer Science lending each with difference experinces that could be utalized with responsibilities divided based on our areas of expertise. I focused on database management, JavaScript logic for mapping, and developing the search engine.
+- <b>Collaboration Across Disciplines:</b> Our team had diverse backgrounds ranging from Business to Computer Science lending each with difference experiences that could be utilized with responsibilities divided based on our areas of expertise. I focused on database management, JavaScript logic for mapping, and developing the search engine.
 - <b>Time Management:</b> Balancing development with academic and work commitments. We utilized Gantt charts and meetings to hit weekly targets and had task prioritization.
 - <b>Remote Coordination:</b> Leveraged tools like Discord, email, and GitHub for communication and version control, overcoming the challenge of coordinating work across different schedules.
 
@@ -55,9 +55,9 @@ I'm a software developer with a deep-seated passion for problem-solving. I have 
 <b>Overview:</b> A relational database crafted to streamline operations for an ATV repair shop. Meant to replace their cumbersome physical logging system with a user friends system that allows the client to quickly find customers and their associated repairs.
 
 <b>Features:</b>
-- Customer information management to quickly store and retrive customer details 
-- Logging of ATV vehical information, Repairs, and other services
-- Easy naviation from customer to associated ATVs or ATVs to associated customers.
+- Customer information management to quickly store and retrieve customer details 
+- Logging of ATV vehicle information, Repairs, and other services
+- Easy navigation from customer to associated ATVs or ATVs to associated customers.
 - Ability to print forms for physical backups
 
 <b>Challenges Overcome:</b>
@@ -67,21 +67,20 @@ I'm a software developer with a deep-seated passion for problem-solving. I have 
 
 # A Little More About Me 🙋‍♂️
 
-## Overview
 I’m individual that enjoys and even thrives in problem solving. Whether that be games, philosophy, and most enjoyably software development. Much like any puzzle, once solved you not only learn the solution but get a progressively better at fundamentally understanding the mechanics as play. Each new challenge is an opportunity to develop my understanding and broaden my perspective; This is a philosophy I hold deep to my heart in everything that I do. 
 
 <b>Some Things I Like</b>
-- VR
-- Philosophy
-- Gaming
-- My Chihuahua
-- Puzzels
+- VR 🕶️
+- Philosophy 📚
+- Gaming 🎮
+- My Chihuahua 🐕
+- Puzzles 🧩
 
-## Background
+## Background 📖
 I have a diverse background that spans both a strong academic and personal passion for software development. I’ve tackled the challenges and opportunities that collaboration provides to software development, been driven with the passion create and grow from challenging personal projects, and understand the importance of working with clients to create solutions that have genuine impact. Over the years with over 7 years of retail experience, I know what it means to set aside differences and come together towards a common goal. I’ve met every type of person under the sun and even still meet unique characters that each have their strengths and weaknesses. No matter how efficient you think you are, an individual can never achieve the progress and impact cooperation can. Through communication, compassion, and guidance so many barriers can be crossed to help work towards a common goal. If there is one thing I’ve learned over the years, it’s that people tend to match those around them; If you work with initiative, passion, and kindness more likely then not that will motive those around you to match.
 
-## My Journey Through Computer Science
-I been programming for nearly 8 years now from JavaScript games in high school to personal and academic projects growing to use an array of languages and concepts. In that journey I’ve spend most of my time specializing in OOP between C# and Java and is my preferred paradigm. I've completed 127 credits towards a Bachlores in Computer Scince that unfortunatley was cut short one semester before graduating due to Family issues that took prioirty. Even so, the desire to take challenges and learn drove the to go to univeristy and still hold true for everything I do including constantly learning new things in software devlopment. I keep a keen eye on recent devlopment in AI and espcially look on to things like general intelligence, Virtual reality, and new lagunages and Frameworks becomming popular.
+## My Programming Journey 💻
+I been programming for nearly 8 years now from JavaScript games in high school to personal and academic projects growing to use an array of languages and concepts. In that journey I’ve spend most of my time specializing in OOP between C# and Java and is my preferred paradigm. I've completed 127 credits towards a Bachelors in Computer Science that unfortunately was cut short one semester before graduating due to Family issues that took priority. Even so, the desire to take challenges and learn drove the to go to university and still hold true for everything I do including constantly learning new things in software development. I keep a keen eye on recent development in AI and especially look on to things like general intelligence, Virtual reality, and new languages and Frameworks becoming popular.
 
-## Towards The Future
-I always look on to improve myself regardless if that is delvoping my programming skills or tackling on pressing life or philosophical issues. I hope to apply all i've learned to help make an impact with a strong team that hold those same ideas and never stop learning.
+## Towards The Future 🔮
+I always look on to improve myself regardless if that is developing my programming skills or tackling on pressing life or philosophical issues. I hope to apply all I've learned to help make an impact with a strong team that hold those same ideas and never stop learning.
