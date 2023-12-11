@@ -38,10 +38,14 @@ I'm a software developer with a deep-seated passion for problem-solving. I have 
 ### ATV Repair Shop Database Application
 <b>Technologies:</b> Microsoft Access
 
-<b>Overview:</b> 
+<b>Overview:</b> A relational database crafted to streamline operations for an ATV repair shop. Meant to replace their cumbersome physical logging system with a user friends system that allows the client to quickly find clients and their associated repairs.
 
 <b>Features:</b>
+- Customer information management to quickly store and retrive customer details 
+- Logging of ATV vehical information, Repairs, and other services
+- Easy naviation from customer to associated ATVs or ATVs to associated customers.
+- Ability to print forms for physical backups
 
-<b>Challenges:</b>
+<b>Challenges Overcome:</b>Understood the unique challenges that come with working together with the client to create a solution the the SDLC. Worked closely with client to find business requirement and apply itterative design through client feedback to create impactful tailored solution.
 
 # More About Me
