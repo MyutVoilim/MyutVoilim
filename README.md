@@ -34,7 +34,8 @@ I'm a software developer with a deep-seated passion for problem-solving. I have 
 
 ### Maproom Navigation App 📍
 ![Maproom Searching room](https://github.com/MyutVoilim/MyutVoilim/assets/54462267/61fbf744-436a-4cc3-b25a-554510c62482)
-<b>Technologies:</b> JavaScript | CSS | HTML5 | Node.js | JSON | MongoDB
+
+<b>Technologies:</b> JavaScript | CSS | HTML5 | Node.js | JSON | MongoDB | Visual Studio Code
 
 <b>Overview:</b> A collaborative project developed by a team of three using Agile methodologies to create "Maproom," an app designed to assist freshmen in navigating our campus. Our goal was to make the transition to campus life less daunting for new students by providing a user-friendly tool to locate classrooms and facilities.
 
