@@ -28,7 +28,7 @@ I'm a software developer with a deep-seated passion for problem-solving. I have 
 - Ability to save and load models as well as change training data
   
 <b>Challenges Overcome:</b>
-- <b>Comprehensive Design and Development:</b>Tackled the complexities of designing and implementing a neural network in C# with a strong emphasis on OOP.
+- <b>Comprehensive Design and Development:</b> Tackled the complexities of designing and implementing a neural network in C# with a strong emphasis on OOP.
 - <b>Testing and Reliability:</b> Focused on unit testing to ensure reliability in complex processes, learning valuable lessons in bug detection and system robustness.
 - <b>Documentation and Learning:</b> The project was not just a technical challenge but also an opportunity to refine my skills in creating comprehensive documentation and understanding the intricacies of neural network behaviors.
 
