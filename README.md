@@ -21,10 +21,11 @@ I'm a software developer with a deep-seated passion for problem-solving. I have 
 <b>Overview:</b> A sophisticated application that recognizes hand-drawn digits and allows for the users to create and train new neural networks with control over a variety of variables. This project is the culmination of my accumulated knowledge and skills in C#, OOP, machine learning a display in growth for planning, designing, testing complex systems.
   
 <b>Features:</b>
-- Interactive Digit Recognition: Users can draw digits and see the AI's confidence values in real-time.
-- Customizable Neural Network: Ability to create custom neural networks by defining hidden layer sizes and node counts.
-- Control Over Training Parameters: Adjust learning rates and epoch counts to influence training efficacy.
-- User-Friendly Interface: Includes dynamic visuals, progress bars, accuracy tracking, and confidence value displays.
+- Interactive digit recognition where the user can draw digits and see the AI's confidence values in real-time.
+- Customizable neural network with the ability to create custom neural networks by defining hidden layer sizes and node counts.
+- Control over training parameters such as ajusting learning rates and epoch counts to influence training route.
+- User-friendly interface that includes dynamic visuals, progress bars, accuracy tracking, and confidence value displays.
+- Ability to save and load models as well as change training data
   
 <b>Challenges Overcome:</b>
 - <b>Comprehensive Design and Development:</b>Tackled the complexities of designing and implementing a neural network in C# with a strong emphasis on OOP.
