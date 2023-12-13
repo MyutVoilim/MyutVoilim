@@ -18,18 +18,18 @@ I'm a software developer with a deep-seated passion for problem solving. I have 
 
 <b>Technologies:</b> C# | WPF | .Net Framework | Visual Studio                                                      
 
-<b>Overview:</b> A sophisticated application that recognizes hand-drawn digits and allows for the users to create and train new neural networks with control over a variety of variables. This project is the culmination of my accumulated knowledge and skills in C#, OOP, machine learning a display in growth for planning, designing, testing complex systems.
+<b>Overview:</b> Utilizing the power of machine learning to recognize hand-drawn digits, this complex passion project is a from scratch feed-forward neural network that implements backpropagation for error correction and it is the culmination of my journey as a developer and problem-solver. It not only showcases my proficiency in C#, OOP, and machine learning but also reflects my growth in planning, designing, and testing complex systems. Built with WPF in the .Net framework, this application offers an engaging and intuitive user experience.
   
 <b>Features:</b>
-- Interactive digit recognition where the user can draw digits and see the AI's confidence values in real-time.
-- Customizable neural network with the ability to create custom neural networks by defining hidden layer sizes and node counts.
-- Control over training parameters such as ajusting learning rates and epoch counts to influence training route.
-- User-friendly interface that includes dynamic visuals, progress bars, accuracy tracking, and confidence value displays.
-- Ability to save and load models as well as change training data
+- <b>Interactive Design:</b> allowing the user to draw or load digits with real-time confidence value feedback.
+- <b>Customizable Neural Networks:</b> featuring the ability to create custom neural networks by defining hidden layer sizes and node counts.
+- <b>Adjustable Training Parameters:</b> Control over training parameters such as learning rates and epoch counts to influence training route.
+- <b>User-Friendly Interface:</b> Including dynamic visuals, progress bars, accuracy tracking, and confidence value displays.
+- <b>Model Management:</b> Save, load, and swap out training data for greater flexibility and experimentation.
   
 <b>Challenges Overcome:</b>
-- <b>Comprehensive Design and Development:</b> Tackled the complexities of designing and implementing a neural network in C# with a strong emphasis on OOP.
-- <b>Testing and Reliability:</b> Focused on unit testing to ensure reliability in complex processes, learning valuable lessons in bug detection and system robustness.
+- <b>Comprehensive Design and Development:</b> navigated the complexities of implementing a neural network in C#, applying OOP principles to create a robust system.
+- <b>Testing and Reliability:</b> : Employed rigorous unit testing to ensure system reliability, which was crucial in identifying and resolving challenging bugs related to the complex journey data takes from the input, processing, backpropagation, and eventually the output.
 - <b>Documentation and Learning:</b> The project was not just a technical challenge but also an opportunity to refine my skills in creating comprehensive documentation and understanding the intricacies of neural network behaviors.
 
 ### Maproom Navigation App 📍
