@@ -70,7 +70,7 @@ I'm a software developer with a deep-seated passion for problem solving. I have 
 
 # A Little More About Me 🙋‍♂️
 
-I am deeply passionate about problem-solving, finding joy in what that brings from anything to games, philosophy, and especially software development.  Much like any puzzle, once solved you not only learn the solution but deepen a fundamental understanding to apply to your next puzzle. I approach every challenge as an opportunity to expand my knowledge and perspectives, a philosophy I apply wholeheartedly to all aspects of my life.
+I am deeply passionate about problem-solving, finding joy in what that brings from anything to games, philosophy, and especially software development.  Much like any puzzle, once solved you not only learn the solution but deepen a fundamental understanding to apply to the next puzzle. I approach every challenge as an opportunity to expand my knowledge and perspectives, a philosophy I apply wholeheartedly to all aspects of my life.
 
 <b>Some Things I Like</b>
 - VR 🕶️
