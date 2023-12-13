@@ -6,13 +6,13 @@
 
 I'm a software developer with a deep-seated passion for problem solving. I have rich background in academia with 127 credits towards a BS in computer science that unfortunately was cut short due to family obligations; however, that journey enriched my understanding of software development, collaboration, and fostered a relentless drive to learn and tackle the unknown. Along with that, I have 7 years of real-world retail experience for what it means to set aside differences and leverage collective strengths to achieve remarkable outcomes. Over the past 8 years I've honed my skills in variety of languages and concepts through academia and personal projects, but with particular focus in Object-Oriented Programming in C# and Java. I'm excited to share some of the highlights of my journey and the challenges I’ve overcome including complex personal projects, development as a team, and the importance working with clients towards tailored solutions that have genuine impact.
 
-## Key Areas of Expertise:
+## Key Areas of Expertise: 💼
 - <b>Object-Oriented Programming:</b> specializing in C# (4 years) and Java (3 years)
 - <b>Collaboration & Teamwork:</b> Leveraging diverse experiences from 7 years in retail to foster effective team collaboration as well as experience in academic team projects that utilize unique skill sets to plan, design, and implement software solutions.
 - <b>Machine Learning:</b> Building intelligent systems using neural networks and algorithms to accomplish complex task such digit recognition or generational survival agents.
 - <b>Other:</b> JavaScript, CSS, HTML5, Node.js, MS Access, MongoDB, REST, SDLC, Technical Writing
   
-## Featured Projects
+## Featured Projects 🏆
 ### AI Digit Recognizer (For Full Documenation Click [Here](https://github.com/MyutVoilim/AI-Digit-Recognition.git)) 🔢
 ![Digit Recognizer 2](https://github.com/MyutVoilim/MyutVoilim/assets/54462267/5292bc93-0618-476c-a024-5af1ecf6e814)
 
