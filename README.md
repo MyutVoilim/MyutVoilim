@@ -8,7 +8,7 @@ I'm a software developer with a deep-seated passion for problem solving. I have 
 
 ## Key Areas of Expertise:
 - <b>Object-Oriented Programming:</b> specializing in C# (4 years) and Java (3 years)
-- <b>Collaboration & Teamwork:</b> Leveraging diverse experiences from 7 years in retail to foster effective team collaboration as well as academic team projects that utilize unique skill sets to plan, design, and implement software solutions.
+- <b>Collaboration & Teamwork:</b> Leveraging diverse experiences from 7 years in retail to foster effective team collaboration as well as experience in academic team projects that utilize unique skill sets to plan, design, and implement software solutions.
 - <b>Machine Learning:</b> Building intelligent systems using neural networks and algorithms to accomplish complex tasks.
 - <b>Other:</b> JavaScript, CSS, HTML5, Node.js, MS Access, MongoDB, REST, SDLC, Technical Writing
   
