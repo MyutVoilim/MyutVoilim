@@ -37,17 +37,18 @@ I'm a software developer with a deep-seated passion for problem solving. I have 
 
 <b>Technologies:</b> JavaScript | CSS | HTML5 | Node.js | JSON | MongoDB | Visual Studio Code
 
-<b>Overview:</b> A collaborative project developed by a team of three using Agile methodologies to create "Maproom," an app designed to assist freshmen in navigating our campus. Our goal was to make the transition to campus life less daunting for new students by providing a user-friendly tool to locate classrooms and facilities.
+<b>Overview:</b> "Maproom" is a navigation app tailored for new students to effortlessly locate classrooms on campus in unfamiliar surroundings. This project, a collaboration between three team members, embodies a commitment to teamwork and effective organization. Leveraging Agile methodologies, our team effectively managed time constraints and maximized productivity all while mostly working remotely. We prioritized tasks to meet target goals and utilized a range of tools for seamless collaboration. Our user-centric approach involved surveying our target demographic to ensure the app's design was intuitive and impactful. Maproom not only highlights the relevant building but also provides a detailed local view, clearly marking the specific floor and room locations. This project showcases our collective strength, organizational skills, and dedication to making a meaningful software for our target demographic.
 
 <b>Features:</b>
-- Provides user with the building and floor along with a highlight for the exact room they are look for.
-- A campus view and local view for building and room locations
-- Initiative search functionality that simplifies finding classroom without needing to know the exact building it is in
+- <b>Dual Navigation Views:</b> Maproom offers a campus-wide view for general orientation and a detailed local view pinpointing the exact room within a building.
+- <b>Intuitive Search Functionality:</b> The app enables students to locate classrooms easily without needing prior knowledge of the building location, enhancing user convenience.
+- <b>Precise Location Mapping:</b> Users receive clear indications of both the building and floor, along with a highlighted marker for the specific classroom they're searching for.
 
 <b>Challenges Overcome:</b>
-- <b>Collaboration Across Disciplines:</b> Our team had diverse backgrounds ranging from Business to Computer Science lending each with difference experiences that could be utilized with responsibilities divided based on our areas of expertise. I focused on database management, JavaScript logic for mapping, and developing the search engine.
-- <b>Time Management:</b> Balancing development with academic and work commitments. We utilized Gantt charts and meetings to hit weekly targets and had task prioritization.
-- <b>Remote Coordination:</b> Leveraged tools like Discord, email, and GitHub for communication and version control, overcoming the challenge of coordinating work across different schedules.
+- <b>Interdisciplinary Collaboration:</b> Comprising of members with backgrounds in Business and Computer Science, we efficiently divided responsibilities to each other’s expertise for effective design and development. My role was pivotal in managing the database, developing JavaScript logic for mapping features, and creating a user-friendly search engine.
+- <b>Effective Time Management:</b> Juggling academic and work commitments, we utilized Gantt charts and regular meetings to maintain our development schedule, ensuring weekly targets were met through effective task prioritization.
+- <b>Remote Team Coordination:</b> Focusing on remote collaboration, we utilized Discord, email, and GitHub for effective communication and version control, facilitating progress despite varied schedules.
+- <b>Demographic Needs:</b> This app held an important place in our campus as available maps were uninformative and only provided a campus overview. Surveys and test groups were pivotal in narrowing effective and user-friendly functionality.
 
 ### ATV Repair Shop Database Application 🛠️
 ![3K Full Service View](https://github.com/MyutVoilim/MyutVoilim/assets/54462267/cb72e3d9-5d4a-43cb-9dbb-58847cd9add9)
@@ -57,19 +58,19 @@ I'm a software developer with a deep-seated passion for problem solving. I have 
 <b>Overview:</b> A relational database crafted to streamline operations for an ATV repair shop. Meant to replace their cumbersome physical logging system with a user friends system that allows the client to quickly find customers and their associated repairs.
 
 <b>Features:</b>
-- Customer information management to quickly store and retrieve customer details 
-- Logging of ATV vehicle information, Repairs, and other services
-- Easy navigation from customer to associated ATVs or ATVs to associated customers.
-- Ability to print forms for physical backups
+- <b>Customer Information Management:</b> Efficient storage and retrieval system for customer details, streamlining client management.
+- <b>ATV Information and Repair Logging:</b> Comprehensive logging of ATV details, repair history, and other services for easy reference.
+- <b>Seamless Navigation:</b> Intuitive interface enabling quick links between customers and their respective ATVs, and vice versa.
+- <b>Print Functionality:</b> Option to generate printouts for physical record-keeping and backup purposes.
 
 <b>Challenges Overcome:</b>
-- <b>Client Collaboration:</b> Worked closely with the client to ensure the system met their specific needs. Involved in extensive planning and iterative feedback sessions to fine-tune the system's features and functionalities.
-- <b>Business Requirements Analysis:</b> Focused on aligning the database design with the practical business requirements of the repair shop.
-- <b>System Design and Presentation:</b> Carefully designed the system with an emphasis on usability, and actively involved the client in the design process to incorporate their feedback and additional functionality requirements.
+- <b>Client Collaboration:</b> Engaged in continuous dialogue with the client, focusing on detailed planning and iterative feedback to tailor the system precisely to their needs.
+- <b>Business Requirements Analysis:</b> Conducted thorough analysis to ensure the database design aligns with the specific operational needs of the ATV repair shop.
+- <b>System Design and User Experience:</b> Prioritized ease of use in system design, involving the client throughout the development process to integrate their insights and evolving requirements.
 
 # A Little More About Me 🙋‍♂️
 
-I’m individual that enjoys and even thrives in problem solving. Whether that be games, philosophy, and most enjoyably software development. Much like any puzzle, once solved you not only learn the solution but get a progressively better at fundamentally understanding the mechanics as play. Each new challenge is an opportunity to develop my understanding and broaden my perspective; This is a philosophy I hold deep to my heart in everything that I do. 
+I am deeply passionate about problem-solving, finding joy in what that brings from anything to games, philosophy, and especially software development.  Much like any puzzle, once solved you not only learn the solution but deepen a fundamental understanding to apply to your next puzzle. I approach every challenge as an opportunity to expand my knowledge and perspectives, a philosophy I apply wholeheartedly to all aspects of my life.
 
 <b>Some Things I Like</b>
 - VR 🕶️
