@@ -4,7 +4,7 @@
 - [Resume]
 - [Linkedin]
 
-I'm a software developer with a deep-seated passion for problem solving. I have rich background in academia with 127 credits towards a BS in computer science that unfortunately was cut short due to family obligations; however, that journey enriched my understanding of software development, collaboration, and fostered a relentless drive to learn and tackle the unknown. Along with that, I have 7 years of real-world retail experience for what it means to set aside differences and leverage collective strengths to achieve remarkable outcomes. Over the past 8 years I've honed my skills in variety of languages and concepts through academia and personal projects, but with particular focus in Object-Oriented Programming in C# and Java. I'm excited to share some of the highlights of my journey and the challenges I’ve overcome including complex personal projects, development as a team, and the importance working with clients towards tailored solutions that have genuine impact.
+I'm a software developer with a deep-seated passion for problem solving. I have a rich background in academia with 127 credits towards a BS in computer science that unfortunately was cut short due to family obligations; however, that journey enriched my understanding of software development, collaboration, and fostered a relentless drive to learn and tackle the unknown. Along with that, I have 7 years of real-world retail experience for what it means to set aside differences and leverage collective strengths to achieve remarkable outcomes. Over the past 8 years I've honed my skills in variety of languages and concepts through academia and personal projects, but with particular focus in Object-Oriented Programming in C# and Java. I'm excited to share some of the highlights of my journey and the challenges I’ve overcome including complex personal projects, development as a team, and the importance working with clients towards tailored solutions that have genuine impact.
 
 ## Key Areas of Expertise: 💼
 - <b>Object-Oriented Programming:</b> specializing in C# (4 years) and Java (3 years)
@@ -18,7 +18,7 @@ I'm a software developer with a deep-seated passion for problem solving. I have 
 
 <b>Technologies:</b> C# | WPF | .Net Framework | Visual Studio                                                      
 
-<b>Overview:</b> Utilizing the power of machine learning to recognize hand-drawn digits, this complex passion project is a from scratch feed-forward neural network that implements backpropagation for error correction and it is the culmination of my journey as a developer and problem-solver. It not only showcases my proficiency in C#, OOP, and machine learning but also reflects my growth in planning, designing, and testing complex systems. Built with WPF in the .Net framework, this application offers an engaging and intuitive user experience.
+<b>Overview:</b> Utilizing the power of machine learning to recognize hand-drawn digits, this complex passion project is a from-scratch feed-forward neural network that implements backpropagation for error correction and it is the culmination of my journey as a developer and problem-solver. It not only showcases my proficiency in C#, OOP, and machine learning but also reflects my growth in planning, designing, and testing complex systems. Built with WPF in the .Net framework, this application offers an engaging and intuitive user experience.
   
 <b>Features:</b>
 - <b>Interactive Design:</b> allowing the user to draw or load digits with real-time confidence value feedback.
@@ -55,7 +55,7 @@ I'm a software developer with a deep-seated passion for problem solving. I have 
 
 <b>Technologies:</b> Microsoft Access
 
-<b>Overview:</b> A relational database crafted to streamline operations for an ATV repair shop. Meant to replace their cumbersome physical logging system with a user friends system that allows the client to quickly find customers and their associated repairs.
+<b>Overview:</b> A relational database crafted to streamline operations for an ATV repair shop. Meant to replace their cumbersome physical logging system with a user-friendly system that allows the client to quickly find customers and their associated repairs.
 
 <b>Features:</b>
 - <b>Customer Information Management:</b> Efficient storage and retrieval system for customer details, streamlining client management.
