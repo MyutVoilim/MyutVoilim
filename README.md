@@ -1,6 +1,7 @@
 # Hey There 👋 I'm Thomas
-- [In Depth History](#a-little-more-about-Me-🙋‍♂️) 📖
 - [Full Portfolio](https://github.com/MyutVoilim/Projects-Portfolio.git) 🗂️
+- [Featured Projects](#a-little-more-about-me-%EF%B8%8F) 🏆
+- [In Depth History](#a-little-more-about-me-%EF%B8%8F) 📖
 - [Resume]
 - [Linkedin]
 
