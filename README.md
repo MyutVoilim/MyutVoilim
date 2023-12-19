@@ -1,6 +1,6 @@
 # Hey There 👋 I'm Thomas
 - [Full Portfolio](https://github.com/MyutVoilim/Projects-Portfolio.git) 🗂️
-- [Featured Projects](#a-little-more-about-me-%EF%B8%8F) 🏆
+- [Featured Projects](#featured-projects-) 🏆
 - [In Depth History](#a-little-more-about-me-%EF%B8%8F) 📖
 - [Resume]
 - [Linkedin]
