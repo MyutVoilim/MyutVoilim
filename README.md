@@ -16,7 +16,7 @@ I'm a software developer with a deep-seated passion for problem solving. I have 
 ### Digit Recognizer | Link to Full [Documentation](https://github.com/MyutVoilim/Digit_Recognizer)
 ![Drawing Digit](https://github.com/MyutVoilim/MyutVoilim/assets/54462267/512e77ac-9283-4013-ba2e-91d5344389b7)
 
-<b>Technologies:</b> C# | WPF | .Net Framework | Visual Studio                                                      
+<b>Technologies:</b> C# | WPF | .Net Framework | Visual Studio | GitHub                                                     
 
 <b>Overview:</b> Utilizing the power of machine learning to recognize hand-drawn digits, this complex passion project is a from-scratch feed-forward neural network that implements backpropagation for error correction and it is the culmination of my journey as a developer and problem-solver. It not only showcases my proficiency in C#, OOP, and machine learning but also reflects my growth in planning, designing, and testing complex systems. Built with WPF in the .Net framework, this application offers an engaging and intuitive user experience.
   
