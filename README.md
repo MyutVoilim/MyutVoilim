@@ -13,7 +13,7 @@ I'm a software developer with a deep-seated passion for problem solving. I have 
 - <b>Other:</b> JavaScript, CSS, HTML5, Node.js, MS Access, MongoDB, REST, SDLC, Technical Writing, Unit Testing
   
 ## Featured Projects 🏆
-### Digit Recognizer ( Link to Full [Documentation](https://github.com/MyutVoilim/Digit_Recognizer))
+### Digit Recognizer | Link to Full [Documentation](https://github.com/MyutVoilim/Digit_Recognizer))
 ![Drawing Digit](https://github.com/MyutVoilim/MyutVoilim/assets/54462267/512e77ac-9283-4013-ba2e-91d5344389b7)
 
 <b>Technologies:</b> C# | WPF | .Net Framework | Visual Studio                                                      
