@@ -3,7 +3,7 @@
 - [Featured Projects](#featured-projects-) 🏆
 - [In Depth History](#a-little-more-about-me-%EF%B8%8F) 📖
 - [Resume](https://github.com/user-attachments/files/16901193/Thomas.Greiner.Resume.pdf) 📄
-- [[LinkedIn]](www.linkedin.com/in/thomas-g-89b6b7277)💻
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/thomas-g-89b6b7277)
 
 I'm a software developer with a deep-seated passion for problem solving. I have a rich background in academia with 127 credits towards a BS in computer science that unfortunately was cut short due to family obligations; however, that journey enriched my understanding of software development, collaboration, and fostered a relentless drive to learn and tackle the unknown. Along with that, I have 7 years of real-world retail experience for what it means to set aside differences and leverage collective strengths to achieve remarkable outcomes. Over the past 8 years I've honed my skills in variety of languages and concepts through academia and personal projects, but with particular focus in Object-Oriented Programming in C# and Java. I'm excited to share some of the highlights of my journey and the challenges I’ve overcome including complex personal projects, development as a team, and the importance working with clients towards tailored solutions that have genuine impact.
 
